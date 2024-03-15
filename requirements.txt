@@ -1,0 +1,16 @@
+numpy==1.21.3
+pandas==1.3.4
+scikit-learn==0.24.2
+matplotlib==3.4.3
+seaborn==0.11.2
+
+# Additional dependencies for Spam SMS Detection
+# Add any additional libraries specific to this task
+# For example, if you're using NLTK for text preprocessing:
+# nltk==3.6.5
+
+# Additional dependencies for Customer Churn Prediction
+# Add any additional libraries specific to this task
+
+# Additional dependencies for Movie Genre Classification
+# Add any additional libraries specific to this task
